@@ -1,6 +1,6 @@
 -  Hi, I’m Dhanya :)
 
--  I’m just curious to learn and also love building crazy and cool stuff
+-  falling in love with building and experimenting for the web
   
 - 🍳 been cooking lately
   
