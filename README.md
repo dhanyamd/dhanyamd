@@ -1,11 +1,12 @@
-**Hi!! I’m Dhanya** :)
+   **Hi, I’m Dhanya** :)
 
-* just a builder learning things
+
+ * just a builder learning things! 
   
-* 📫 reach me at - dhanya13md@gmail.com / @dhanya13_md on X
+ * 📫 reach me at - dhanya13md@gmail.com / @dhanya13_md on X
 
 
-  happy dev and a wannabe great engineer :)
+    dev and a wannabe great engineer :)
 <!---
 dhanyamd/dhanyamd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
