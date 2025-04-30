@@ -1,10 +1,8 @@
--  Hi, I’m Dhanya :)
+**Hi!! I’m Dhanya** :)
 
-- just a builder  
+* just a builder learning things
   
-- 🍳 been cooking lately
-  
-- 📫 reach me at - dhanya13md@gmail.com / @dhanya13_md on X
+* 📫 reach me at - dhanya13md@gmail.com / @dhanya13_md on X
 
 
   happy dev and a wannabe great engineer :)
