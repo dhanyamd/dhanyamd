@@ -2,7 +2,7 @@
 
 
  * love working on challenging problems!
- * my domains include web dev, ai and ml 
+ * my domains include web dev, ai and ml     
   
   
  * 📫 reach me at - dhanya13md@gmail.com / @dhanya13_md on X
