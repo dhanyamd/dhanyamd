@@ -1,7 +1,7 @@
    **Hello, I’m Dhanya** :)
 
 
- * love working on challenging problems:)
+ * love working on challenging problems!
  * my domains include web dev, ai and ml 
   
   
