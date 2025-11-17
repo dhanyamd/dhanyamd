@@ -1,7 +1,7 @@
    **Hello, I’m Dhanya** :)
 
 
- * love working on challenging problems!
+ * love working on challenging ideas and problems!
  * work mostly around web dev, ai and ml     
   
   
