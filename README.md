@@ -1,8 +1,7 @@
    **Hello, I’m Dhanya** :)
    
 
- * love working on challenging ideas and problems!
- * enjoy working mostly around web dev, ai and ml     
+ * love working on challenging ideas!    
   
   
  * 📫 reach me at - dhanya13md@gmail.com / @dhanya13_md on X
